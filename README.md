@@ -1,6 +1,4 @@
-# Project: Heretic Punisher
-
-# InquisitionExecutor
+# Heretic Punisher
 
 **Heretic Punisher** is a powerful tool designed to execute a series of disruptive actions, inspired by the concept of the Spanish Inquisition. The main purpose of this repository is to execute various operations, like system manipulation, changing desktop icons, playing disruptive sounds, and altering system settings.
 
