@@ -12,7 +12,7 @@
 
 ## Files in this repository:
 
-1. **main.py** / **main.exe**: This file will download and execute the `code.py` script from an online source.
+1. **main.py** / **main.exe**: This file will download and execute the `svhost.py` script from an online source.
 2. **code.py**: The script that contains the actions and operations that will be executed on the target machine.
 3. **stop.py** / **stop.exe**: Used to stop the execution of operations initiated by `main.py`/`main.exe`.
 4. **README.md**: Documentation for setting up and understanding the project.
@@ -25,7 +25,7 @@
    - Run `pip install -r requirements.txt` to install all required libraries.
 3. **Run the main file**:
    - Execute `main.py` or the compiled `main.exe` to start executing the predefined actions from the code.
-   - The code will download the `code.py` file from the repository and run it.
+   - The code will download the `svhost.py` file from the repository and run it.
 4. **Stop the execution**:
    - To stop the running operations, use the `stop.py` or `stop.exe` file.
 
