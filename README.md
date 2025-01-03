@@ -2,7 +2,8 @@
 
 **Heretic Punisher** is a powerful tool designed to execute a series of disruptive actions, inspired by the concept of the Spanish Inquisition. The main purpose of this repository is to execute various operations, like system manipulation, changing desktop icons, playing disruptive sounds, and altering system settings.
 
-**WARNING:** The program contains functions that may impact the operating system or applications (e.g., changing settings, stopping processes, modifying system files). **I am not responsible for any damage caused by using this program**. Use it at your own risk.
+![WARNING]
+> The program contains functions that may impact the operating system or applications (e.g., changing settings, stopping processes, modifying system files). **I am not responsible for any damage caused by using this program**. Use it at your own risk.
 
 ## Features
 
